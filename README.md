@@ -30,5 +30,5 @@ https://willbill84.github.io/Homework_week3/
 
 Screenshot
 
-![Screen Shot 2021-03-04 at 2 23 47 pm] (https://user-images.githubusercontent.com/78286026/111107840-bce5a300-85ab-11eb-9982-ff8379daa069.png)
+![image](https://user-images.githubusercontent.com/78286026/111108198-76dd0f00-85ac-11eb-9ea3-ae66777d6a8f.png)
 
