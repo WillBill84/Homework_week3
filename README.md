@@ -4,7 +4,9 @@
 ## Description
 
 
-The assignment this week was to create a password generator that generates a random password based on user selected criteria. The HTML and CSS were provided and we had to write the javascript to make the application work. 
+The assignment this week was to make a password generator that creates a random password based on user selected criteria. The HTML and CSS were provided and we had to write the javascript to make the application work. 
+
+The user criteria is to choose a password between 8 and 128 characters, if they would like to use uppercase, lowercase, numbers or symbols. The password is then randomly generated based on the users choices and dynamically displayed into the html.
 
 
 
