@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# homework_week3 - Password Generator
+--------------------------------------------------
 
-You can use the [editor on GitHub](https://github.com/WillBill84/Homework_week3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```
+The assignment this week was to create a password generator that generates a random password based on user selected criteria. The HTML and CSS were provided and we had to write the javascript to make the application work. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Technologies
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WillBill84/Homework_week3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
+Languages used in the assignment:
 
-### Support or Contact
+•Javascript
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+•HTML 
+
+•CSS
+
+```
+
+
+## View Project
+
+link to deployed application
+https://willbill84.github.io/Homework_week3/
+
+Screenshot
+
+![Screen Shot 2021-03-04 at 2 23 47 pm] (https://user-images.githubusercontent.com/78286026/111107840-bce5a300-85ab-11eb-9982-ff8379daa069.png)
+
