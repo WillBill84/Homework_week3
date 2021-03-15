@@ -3,15 +3,13 @@
 
 ## Description
 
-```
+
 The assignment this week was to create a password generator that generates a random password based on user selected criteria. The HTML and CSS were provided and we had to write the javascript to make the application work. 
 
-```
 
 
 ## Technologies
 
-```
 Languages used in the assignment:
 
 •Javascript
@@ -20,7 +18,6 @@ Languages used in the assignment:
 
 •CSS
 
-```
 
 
 ## View Project
